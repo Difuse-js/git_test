@@ -1,0 +1,1 @@
+Hello! Learning how to use github today + the terminal.
